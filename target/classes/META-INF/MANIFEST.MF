@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: busapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nithin
+Implementation-Vendor-Id: com.nexon.busapp
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/busapp
+Created-By: Maven Integration for Eclipse
+
